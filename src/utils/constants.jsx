@@ -22,3 +22,6 @@ export const SUPPORTED_LANGUAGES = [
     { identifier: "hindi", name: "Hindi" },
     { identifier: "spanish", name: "Spanish" },
   ];
+
+
+export  const API_KEY = "AIzaSyAW8q7VOCUPM1iesjxp76-xmo1d5IvfiYc";
